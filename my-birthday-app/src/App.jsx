@@ -1,17 +1,17 @@
 import React, { useState, useEffect } from 'react';
-import photo1 from './assets/img1.jpg';
+import photo1 from './assets/img1.JPG';
 import photo2 from './assets/img2.jpg';
-import photo3 from './assets/img3.jpg';
+import photo3 from './assets/img3.JPG';
 import photo4 from './assets/img4.jpg';
 import photo5 from './assets/img5.jpg';
-import photo6 from './assets/img6.jpg';
-import photo7 from './assets/img7.jpg';
-import photo8 from './assets/img8.jpg';
-import photo9 from './assets/img9.jpg';
-import photo10 from './assets/img10.jpg';
-import photo11 from './assets/img11.jpg';
-import photo12 from './assets/img12.jpg';
-import photo13 from './assets/img13.jpg';
+import photo6 from './assets/img6.JPG';
+import photo7 from './assets/img7.JPG';
+import photo8 from './assets/img8.JPG';
+import photo9 from './assets/img9.JPG';
+import photo10 from './assets/img10.JPG';
+import photo11 from './assets/img11.JPG';
+import photo12 from './assets/img12.JPG';
+import photo13 from './assets/img13.JPG';
 import wrongimg from './assets/wrongimg.png';
 import logo from './assets/main.png';
 
